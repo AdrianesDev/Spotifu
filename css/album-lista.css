@@ -1,0 +1,64 @@
+
+.informacionLista{
+  display: flex;
+  border: 1px solid red;
+  justify-content: space-between;
+  align-items: center;
+}
+.Fecha, .Duracion{
+  display: flex;
+  align-items: center;
+}
+.main-content{
+  display: flex;
+  justify-content: space-between;
+}
+.title-content{
+  display: flex;
+  gap: 1rem;
+}
+
+/* .tablaPlay{
+  inline-size: 2.75rem;
+  block-size: 2.75rem;
+  display: flex;
+  
+  
+}
+
+.tablaMegusta {
+  inline-size: 2.375rem;
+  block-size: 2.75rem;
+}
+
+.tablaTitulo {
+  inline-size: 20.18rem;
+  block-size: 2.75rem;
+}
+
+.tablaArtista {
+  inline-size: 17rem;
+  block-size: 2.75rem;
+}
+
+.tablaAlbum {
+  inline-size: 17.06rem;
+  block-size: 2.75rem;
+}
+
+.tablaFecha {
+  font: var(--headline2);
+  inline-size: 5.625rem;
+  block-size: 2.75rem;
+}
+
+.tablaDuracion {
+  font: var(--headline2);
+  inline-size: 2.93rem;
+  block-size: 2.75rem;
+}
+
+.icon {
+  text-align: center;
+  cursor: pointer;
+} */
